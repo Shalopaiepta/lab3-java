@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="avialib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/avialib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
